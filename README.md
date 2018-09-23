@@ -1,0 +1,1 @@
+A simple example of how to pass data from child to parent or to a sibling in react.
